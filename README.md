@@ -1,2 +1,2 @@
-# profile
-Hi, this is my profile where I go into detail regarding my background in data
+# Background
+Hi, I'm currently a data analyst at Amazon. My skills range from analytics, visualization to data engineering (modelling, designing ETL pipelines,etc)
